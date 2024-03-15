@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "reciboo.app.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'portal.app.jwt.secret'"
+  },
+  {
+    "name": "reciboo.app.jwt.expirationms",
+    "type": "java.lang.String",
+    "description": "A description for 'portal.app.jwt.expirationms'"
+  },
+  {
+    "name": "aws.access.key.id",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.id'"
+  },
+  {
+    "name": "aws.access.key.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.secret'"
+  },
+  {
+    "name": "aws.s3.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.region'"
+  },
+  {
+    "name": "aws.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket'"
+  },
+  {
+    "name": "reciboo.app.web.login",
+    "type": "java.lang.String",
+    "description": "A description for 'reciboo.app.web.login'"
+  }
+]}
